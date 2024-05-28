@@ -1,0 +1,82 @@
+{
+      "Version": 1,
+      "ID": "f3wk5smnr2msm4dwd7upkfgt25uwe6umwbht4kild4r4v5nco3borspqkuu3tvvkwperl4ztnvgupsu7vavhiq",
+      "Issue Number": "6",
+      "Client": {
+        "Name": "Dot Well",
+        "Region": "China",
+        "Industry": "Information, Media & Telecommunications",
+        "Website": "http://www.dotwell.com/",
+        "Social Media": "https://mp.weixin.qq.com/s/uiYTh4Y8GlVIrXHAI0PW8w",
+        "Social Media Type": "Slack",
+        "Role": "Dataset Owner"
+      },
+      "Project": {
+        "Brief history of your project and organization": "Shenzhen DotWell Culture Communication Co., Ltd. (DotWell) is a diversified and integrated creative agency.\r\nServices provided by Dotwell:\r\nLive-action shooting/CG animation/KV/brand strategy/new media integrated marketing/MCN/game art & R&D/self-media business cooperation/column packaging/pan-entertainment content creation/H5/scene marketing exhibition display, etc.",
+        "Is this project associated with other projects/ecosystem stakeholders?": "No",
+        "Describe the data being stored onto Filecoin": "Live shooting video/game video/brand video/product video/corporate video/entertainment video/plane/CG animation/KV/game art & R&D",
+        "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+        "How do you plan to prepare the dataset": "No response",
+        "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "(http://www.dotwell.com/work/#section2) you can watch the videos from us in the link.",
+        "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+        "What is the expected retrieval frequency for this data": "Yearly",
+        "For how long do you plan to keep this dataset stored on Filecoin": "1 to 1.5 years",
+        "In which geographies do you plan on making storage deals": "Greater China",
+        "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+        "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "HK        f01730296   \r\nGuangdong f02825338   f02639675\r\nSIchuan   f0109903\r\nSichuan   f02201915",
+        "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+      },
+      "Datacap": {
+        "Type": "ldn-v3",
+        "Data Type": "Slingshot",
+        "Total Requested Amount": "5PiB",
+        "Single Size Dataset": "100TiB",
+        "Replicas": 5,
+        "Weekly Allocation": "800TiB"
+      },
+      "Lifecycle": {
+        "State": "Granted",
+        "Validated At": "2024-04-24 02:08:42.516348482 UTC",
+        "Validated By": "Chuangshi1",
+        "Active": true,
+        "Updated At": "2024-05-23 01:11:59.822541354 UTC",
+        "Active Request ID": "d0f9f67b-e141-423b-b741-6b7fa24e5549",
+        "On Chain Address": "f3wk5smnr2msm4dwd7upkfgt25uwe6umwbht4kild4r4v5nco3borspqkuu3tvvkwperl4ztnvgupsu7vavhiq",
+        "Multisig Address": "false",
+        "edited": false
+      },
+      "Allocation Requests": [
+        {
+          "ID": "2f3bcabe-2300-471e-917a-9e08fed1fa63",
+          "Request Type": "First",
+          "Created At": "2024-04-24 02:08:42.516354811 UTC",
+          "Updated At": "2024-04-24 02:08:42.516355396 UTC",
+          "Active": false,
+          "Allocation Amount": "50TiB",
+          "Signers": [
+            {
+              "Github Username": "Chuangshi1",
+              "Signing Address": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
+              "Created At": "2024-04-24 02:09:53.261000000 UTC",
+              "Message CID": "bafy2bzacecjfh77os4h6lc7tbl2243vjhsjnysvpzdf7hswb663u2j7zbwt6i"
+            }
+          ]
+        },
+        {
+          "ID": "d0f9f67b-e141-423b-b741-6b7fa24e5549",
+          "Request Type": "Refill",
+          "Created At": "2024-05-22 13:00:05.120438130 UTC",
+          "Updated At": "2024-05-22 13:00:05.120439710 UTC",
+          "Active": false,
+          "Allocation Amount": "500TiB",
+          "Signers": [
+            {
+              "Github Username": "Chuangshi1",
+              "Signing Address": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
+              "Created At": "2024-05-23 01:11:55.909000000 UTC",
+              "Message CID": "bafy2bzaced3vcx6viiguhy47ewi6j6nvpyeuxlafswbzjh37ycmm45csy7qfs"
+            }
+          ]
+        }
+      ]
+    }
