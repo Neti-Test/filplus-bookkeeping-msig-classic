@@ -39,37 +39,11 @@
     "Validated At": "",
     "Validated By": "",
     "Active": true,
-    "Updated At": "2024-05-16 12:33:35.808820835 UTC",
-    "Active Request ID": "528b93f7-a587-461d-a14f-021b9b158f8a",
-    "On Chain Address": "f1x5bd4bafvlawsz5e7otja66y27lfdwsbvh2vxdi",
+    "Updated At": "2024-06-14 13:46:09.142424657 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1dcjmawlolcjiupvmjr2j6bce3eb77rrtwjtx2sq",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": [
-    {
-      "ID": "47ad9bcf-17e2-4d64-90ee-c85a7b68b894",
-      "Request Type": "First",
-      "Created At": "2024-04-24 02:11:31.855614350 UTC",
-      "Updated At": "2024-04-24 02:11:31.855615060 UTC",
-      "Active": false,
-      "Allocation Amount": "512TiB",
-      "Signers": [
-        {
-          "Github Username": "AlanGreaterheat",
-          "Signing Address": "f1wa66ph33vsmxbfgqkcn2x3ayvmblu3irtovphpa",
-          "Created At": "2024-04-24 02:16:25.884000000 UTC",
-          "Message CID": "bafy2bzaceb7ksq4wdxqaprai5ahdfrdsghpxe2yv23jiq6e7zf7d7izkwag6u"
-        }
-      ]
-    },
-    {
-      "ID": "528b93f7-a587-461d-a14f-021b9b158f8a",
-      "Request Type": "Refill",
-      "Created At": "2024-05-16 12:33:35.808902760 UTC",
-      "Updated At": "2024-05-16 12:33:35.808906043 UTC",
-      "Active": true,
-      "Allocation Amount": "512TiB",
-      "Signers": []
-    }
-  ]
+  "Allocation Requests": []
 }
