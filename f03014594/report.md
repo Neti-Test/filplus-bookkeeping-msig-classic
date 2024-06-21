@@ -14,9 +14,6 @@
 |f02841329| 1.00 PiB | - | - | - |
 |f03027096| 1.00 TiB | - | - | - |
 
-<img src="https://raw.githubusercontent.com/Neti-Test/filplus-bookkeeping-msig-classic/main/f03014594/datacap_in_clients/histogram_3.png"/>
-<img src=""/>
-<img src=""/>
 <img src=""/>
 <img src=""/>
 <img src=""/>
@@ -58,4 +55,7 @@
 | f02519100 | Hong Kong | 672.00 GiB | 0.00 % | - |
 | f03034045 | Asagaya-minami | 448.00 GiB | 0.00 % | - |
 | f02770938 | Hong Kong | 160.00 GiB | 0.00 % | - |
+<img src=""/>
+<img src=""/>
+<img src="https://raw.githubusercontent.com/Neti-Test/filplus-bookkeeping-msig-classic/main/f03014594/datacap_in_clients/histogram_4.png"/>
 <img src="https://raw.githubusercontent.com/Neti-Test/filplus-bookkeeping-msig-classic/main/f03014594/providers_distribution_geomap.png"/>
