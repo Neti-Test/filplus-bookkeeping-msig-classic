@@ -35,7 +35,7 @@
         "Weekly Allocation": "200TiB"
       },
       "Lifecycle": {
-        "State": "Granted",
+        "State": "ReadyToSign",
         "Validated At": "2024-05-16 02:44:07.604697430 UTC",
         "Validated By": "MikeH1999",
         "Active": true,
@@ -51,16 +51,9 @@
           "Request Type": "First",
           "Created At": "2024-05-16 02:44:07.604704117 UTC",
           "Updated At": "2024-05-16 02:44:07.604705146 UTC",
-          "Active": false,
+          "Active": true,
           "Allocation Amount": "50TiB",
-          "Signers": [
-            {
-              "Github Username": "MikeH1999",
-              "Signing Address": "f1uci7zkbdvscvu5mklxwwafkqqn7qo7rwc6rfoxi",
-              "Created At": "2024-05-20 02:16:44.012000000 UTC",
-              "Message CID": "bafy2bzaceabmfqwl3i4duolblzjf4gtlxlsntz22sui4ljpbajhvp7s6y6yhm"
-            }
-          ]
+          "Signers": []
         }
       ]
     }
