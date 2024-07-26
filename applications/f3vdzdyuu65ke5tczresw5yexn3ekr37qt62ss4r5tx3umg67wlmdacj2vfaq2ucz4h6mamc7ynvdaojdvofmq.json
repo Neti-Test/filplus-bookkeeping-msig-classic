@@ -35,57 +35,15 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2024-04-24 02:08:42.516348482 UTC",
-    "Validated By": "Chuangshi1",
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
     "Active": true,
-    "Updated At": "2024-07-26 09:52:03.377163117 UTC",
-    "Active Request ID": "285d32e9-2023-4325-a99e-fec8e7fe0f4d",
+    "Updated At": "2024-07-26 09:52:16.828196412 UTC",
+    "Active Request ID": "",
     "On Chain Address": "f3wk5smnr2msm4dwd7upkfgt25uwe6umwbht4kild4r4v5nco3borspqkuu3tvvkwperl4ztnvgupsu7vavhiq",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": [
-    {
-      "ID": "2f3bcabe-2300-471e-917a-9e08fed1fa63",
-      "Request Type": "First",
-      "Created At": "2024-04-24 02:08:42.516354811 UTC",
-      "Updated At": "2024-04-24 02:08:42.516355396 UTC",
-      "Active": false,
-      "Allocation Amount": "50TiB",
-      "Signers": [
-        {
-          "Github Username": "Chuangshi1",
-          "Signing Address": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
-          "Created At": "2024-04-24 02:09:53.261000000 UTC",
-          "Message CID": "bafy2bzacecjfh77os4h6lc7tbl2243vjhsjnysvpzdf7hswb663u2j7zbwt6i"
-        }
-      ]
-    },
-    {
-      "ID": "d0f9f67b-e141-423b-b741-6b7fa24e5549",
-      "Request Type": "Refill",
-      "Created At": "2024-05-22 13:00:05.120438130 UTC",
-      "Updated At": "2024-05-22 13:00:05.120439710 UTC",
-      "Active": false,
-      "Allocation Amount": "500TiB",
-      "Signers": [
-        {
-          "Github Username": "Chuangshi1",
-          "Signing Address": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
-          "Created At": "2024-05-23 01:11:55.909000000 UTC",
-          "Message CID": "bafy2bzaced3vcx6viiguhy47ewi6j6nvpyeuxlafswbzjh37ycmm45csy7qfs"
-        }
-      ]
-    },
-    {
-      "ID": "285d32e9-2023-4325-a99e-fec8e7fe0f4d",
-      "Request Type": "Refill",
-      "Created At": "2024-07-26 09:52:03.377172084 UTC",
-      "Updated At": "2024-07-26 09:52:03.377172784 UTC",
-      "Active": true,
-      "Allocation Amount": "1PiB",
-      "Signers": []
-    }
-  ]
+  "Allocation Requests": []
 }
