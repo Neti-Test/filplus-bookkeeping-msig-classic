@@ -3,9 +3,9 @@
   "ID": "f410fpusidlrjori7nqhhnxo3wnhxpjpo6hqvsu4ysnq",
   "Issue Number": "73",
   "Client": {
-    "Name": "",
-    "Region": "",
-    "Industry": "",
+    "Name": "asdd",
+    "Region": "Afghanistan",
+    "Industry": "Life Science / Healthcare",
     "Website": "asd",
     "Social Media": "asd",
     "Social Media Type": "Slack",
@@ -43,7 +43,7 @@
     "Active Request ID": "0d8d026b-cda7-40b1-aa67-46b45b569ae8",
     "On Chain Address": "f410fpusidlrjori7nqhhnxo3wnhxpjpo6hqvsu4ysnq",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
