@@ -35,11 +35,11 @@
     "Weekly Allocation": "123TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-10-31 16:28:16.347133132 UTC",
     "Validated By": "kacperzuk-neti",
     "Active": true,
-    "Updated At": "2024-10-31 16:28:16.347156376 UTC",
+    "Updated At": "2024-10-31 16:29:42.680853888 UTC",
     "Active Request ID": "2211463a-7f7b-42be-af22-bf2ac2b4fc6d",
     "On Chain Address": "t1yuiado2ocr3a7xesifnppn4mxjghpw7jr76vjfq",
     "Multisig Address": "false",
@@ -51,9 +51,18 @@
       "Request Type": "First",
       "Created At": "2024-10-31 16:28:16.347158942 UTC",
       "Updated At": "2024-10-31 16:28:16.347160041 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "32GiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "kacperzuk-neti",
+          "Signing Address": "f1yuiado2ocr3a7xesifnppn4mxjghpw7jr76vjfq",
+          "Created At": "2024-10-31 16:29:40.851000000 UTC",
+          "Message CIDs": {
+            "Message CID": "bafy2bzacebsvqqqlkslgu2yz2bzym7ekwedumr6z4fbmshxt3ktmpmpuwna52"
+          }
+        }
+      ]
     }
   ]
 }
