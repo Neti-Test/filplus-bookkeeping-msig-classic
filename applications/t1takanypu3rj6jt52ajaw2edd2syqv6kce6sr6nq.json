@@ -35,15 +35,25 @@
     "Weekly Allocation": "123TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2024-11-04 12:01:39.162801760 UTC",
+    "Validated By": "Filip-L",
     "Active": true,
-    "Updated At": "2024-11-04 12:00:30.887034030 UTC",
-    "Active Request ID": "",
+    "Updated At": "2024-11-04 12:01:39.162819965 UTC",
+    "Active Request ID": "406b7ae3-e036-4806-90d0-39850a772f35",
     "On Chain Address": "t1takanypu3rj6jt52ajaw2edd2syqv6kce6sr6nq",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "406b7ae3-e036-4806-90d0-39850a772f35",
+      "Request Type": "First",
+      "Created At": "2024-11-04 12:01:39.162830365 UTC",
+      "Updated At": "2024-11-04 12:01:39.162834894 UTC",
+      "Active": true,
+      "Allocation Amount": "32GiB",
+      "Signers": []
+    }
+  ]
 }
