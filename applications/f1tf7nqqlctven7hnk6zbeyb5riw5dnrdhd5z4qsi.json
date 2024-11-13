@@ -36,11 +36,11 @@
     "Weekly Allocation": "123TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2024-11-13 17:40:05.599408285 UTC",
+    "State": "StartSignDatacap",
+    "Validated At": "2024-11-13 17:43:09.808252816 UTC",
     "Validated By": "Filip-L",
     "Active": true,
-    "Updated At": "2024-11-13 17:40:05.599420829 UTC",
+    "Updated At": "2024-11-13 17:43:09.808233148 UTC",
     "Active Request ID": "50759360-a895-4236-8034-71dcafb5ec96",
     "On Chain Address": "f1tf7nqqlctven7hnk6zbeyb5riw5dnrdhd5z4qsi",
     "Multisig Address": "false",
@@ -71,7 +71,15 @@
       "Updated At": "2024-11-13 17:40:05.599435116 UTC",
       "Active": true,
       "Allocation Amount": "32GiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "Filip-L",
+          "Signing Address": "f1gyf5fzvohawd2vzobjht4ued5zunfjjxqfyhqui",
+          "Created At": "2024-11-13 17:43:05.623000000 UTC",
+          "Message CID": "bafy2bzacecdekmaq2xttu7ikfu3g7q25kkcftspo3snnyxys5ph2xaghfmt42",
+          "Increase allowance CID": "bafy2bzacebylnnnkbx266un2v54k2ovr3elpsycug23dpncemtzt7evvzadrs"
+        }
+      ]
     }
   ]
 }
