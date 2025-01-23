@@ -36,11 +36,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2025-01-23 11:32:36.197521194 UTC",
+    "Validated At": "2025-01-23 11:38:33.022013016 UTC",
     "Validated By": "kacperzuk-neti",
     "Active": true,
-    "Updated At": "2025-01-23 11:32:36.197517207 UTC",
-    "Active Request ID": "5764f8ed-a895-4a15-9daa-847c488b5d32",
+    "Updated At": "2025-01-23 11:38:33.022009437 UTC",
+    "Active Request ID": "9791c026-dd50-42ed-be50-98debf77ef61",
     "On Chain Address": "t1thcqx65vybwwfhdxr5umn77sogf7zyrokmvg2mq",
     "Multisig Address": "false",
     "edited": false
@@ -65,6 +65,28 @@
           "Signing Address": "f1fyf5cpqzl6o5uhi2tog2fgkfcu23hlgupnnmk2q",
           "Created At": "2025-01-23 11:32:33.958000000 UTC",
           "Message CID": "bafy2bzaced7rq3dtcc4r45aj2kamwvgbq2calitlgibccoxkvagsbezpxdd3o"
+        }
+      ]
+    },
+    {
+      "ID": "9791c026-dd50-42ed-be50-98debf77ef61",
+      "Request Type": "Refill",
+      "Created At": "2025-01-23 11:35:29.836230127 UTC",
+      "Updated At": "2025-01-23 11:35:29.836230891 UTC",
+      "Active": false,
+      "Allocation Amount": "1GiB",
+      "Signers": [
+        {
+          "Github Username": "kacperzuk-neti",
+          "Signing Address": "f1yuiado2ocr3a7xesifnppn4mxjghpw7jr76vjfq",
+          "Created At": "2025-01-23 11:37:02.208000000 UTC",
+          "Message CID": "bafy2bzacedvob7brlutj5qrihq2qjbe5wkywavi3o33hcc26kfltjrfyt667i"
+        },
+        {
+          "Github Username": "kacperzuk-neti",
+          "Signing Address": "f1fyf5cpqzl6o5uhi2tog2fgkfcu23hlgupnnmk2q",
+          "Created At": "2025-01-23 11:38:30.789000000 UTC",
+          "Message CID": "bafy2bzacedjia3g2ryixu6fcslkpftkqdatueovqylzsud6oli35rnfeidogw"
         }
       ]
     }
