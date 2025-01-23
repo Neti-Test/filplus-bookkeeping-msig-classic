@@ -1,4 +1,5 @@
 name: Sample minimal Allocator.tech issue template
+description: Sample minimal Allocator.tech issue template
 body:
 - type: input
   attributes:
