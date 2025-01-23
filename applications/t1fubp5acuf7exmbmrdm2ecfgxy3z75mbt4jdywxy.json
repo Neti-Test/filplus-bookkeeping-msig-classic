@@ -35,11 +35,11 @@
     "Weekly Allocation": "123TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-01-23 11:06:59.606879895 UTC",
+    "State": "StartSignDatacap",
+    "Validated At": "2025-01-23 11:08:04.231155974 UTC",
     "Validated By": "kacperzuk-neti",
     "Active": true,
-    "Updated At": "2025-01-23 11:06:59.606884105 UTC",
+    "Updated At": "2025-01-23 11:08:04.231152403 UTC",
     "Active Request ID": "dc1c2ded-db74-4ef0-abdf-899503d8207f",
     "On Chain Address": "t1fubp5acuf7exmbmrdm2ecfgxy3z75mbt4jdywxy",
     "Multisig Address": "false",
@@ -53,7 +53,14 @@
       "Updated At": "2025-01-23 11:06:59.606886602 UTC",
       "Active": true,
       "Allocation Amount": "1GiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "kacperzuk-neti",
+          "Signing Address": "f1yuiado2ocr3a7xesifnppn4mxjghpw7jr76vjfq",
+          "Created At": "2025-01-23 11:08:01.628000000 UTC",
+          "Message CID": "bafy2bzaceduqa2ild2u7d5epveyfpdgepvuwoeypycs2fevh4dln2r3wvpbqc"
+        }
+      ]
     }
   ]
 }
