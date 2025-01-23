@@ -35,7 +35,7 @@
     "Weekly Allocation": "123TiB"
   },
   "Lifecycle": {
-    "State": "StartSignDatacap",
+    "State": "ChangesRequested",
     "Validated At": "2025-01-23 11:08:04.231155974 UTC",
     "Validated By": "kacperzuk-neti",
     "Active": true,
@@ -43,7 +43,7 @@
     "Active Request ID": "dc1c2ded-db74-4ef0-abdf-899503d8207f",
     "On Chain Address": "t1fubp5acuf7exmbmrdm2ecfgxy3z75mbt4jdywxy",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
