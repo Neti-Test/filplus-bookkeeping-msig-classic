@@ -52,7 +52,7 @@
       "Created At": "2025-01-23 11:01:52.197970556 UTC",
       "Updated At": "2025-01-23 11:01:52.197971203 UTC",
       "Active": false,
-      "Allocation Amount": "1GiB",
+      "Allocation Amount": "1TiB",
       "Signers": [
         {
           "Github Username": "kacperzuk-neti",
