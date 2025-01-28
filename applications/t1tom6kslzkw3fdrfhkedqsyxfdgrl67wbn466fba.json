@@ -2,7 +2,6 @@
   "Version": "1.3",
   "ID": "t1tom6kslzkw3fdrfhkedqsyxfdgrl67wbn466fba",
   "Issue Number": "168",
-  "Issue Reporter Handle": "Filip-L",
   "Client": {
     "Name": "Test fil 12",
     "Region": "Afghanistan",
@@ -36,15 +35,25 @@
     "Weekly Allocation": "123TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-01-28 13:33:01.258521299 UTC",
+    "Validated By": "Filip-L",
     "Active": true,
-    "Updated At": "2025-01-27 09:09:11.135800357 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-01-28 13:33:01.258526203 UTC",
+    "Active Request ID": "d45b4f35-4b25-4637-8888-e60514cc9a4b",
     "On Chain Address": "t1tom6kslzkw3fdrfhkedqsyxfdgrl67wbn466fba",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "d45b4f35-4b25-4637-8888-e60514cc9a4b",
+      "Request Type": "First",
+      "Created At": "2025-01-28 13:33:01.258528561 UTC",
+      "Updated At": "2025-01-28 13:33:01.258529793 UTC",
+      "Active": true,
+      "Allocation Amount": "2GiB",
+      "Signers": []
+    }
+  ]
 }
