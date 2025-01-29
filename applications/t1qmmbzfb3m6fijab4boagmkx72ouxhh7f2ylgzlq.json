@@ -3,7 +3,7 @@
   "ID": "t1qmmbzfb3m6fijab4boagmkx72ouxhh7f2ylgzlq",
   "Issue Number": "170",
   "Client": {
-    "Name": "Test fil 13",
+    "Name": "Test fil 13 test",
     "Region": "Afghanistan",
     "Industry": "Life Science / Healthcare",
     "Website": "Test Fil",
@@ -36,10 +36,10 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2025-01-28 13:42:42.699989675 UTC",
+    "Validated At": "2025-01-29 10:23:36.445164922 UTC",
     "Validated By": "Filip-L",
     "Active": true,
-    "Updated At": "2025-01-28 13:42:42.699986297 UTC",
+    "Updated At": "2025-01-29 10:23:36.445204288 UTC",
     "Active Request ID": "a6c6f6c5-6187-4801-822f-c96aa58d2ef5",
     "On Chain Address": "t1qmmbzfb3m6fijab4boagmkx72ouxhh7f2ylgzlq",
     "Multisig Address": "false",
