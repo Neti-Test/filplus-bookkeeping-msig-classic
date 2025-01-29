@@ -3,7 +3,7 @@
   "ID": "t1qmmbzfb3m6fijab4boagmkx72ouxhh7f2ylgzlq",
   "Issue Number": "170",
   "Client": {
-    "Name": "Test fil 13",
+    "Name": "Test fil 13 test",
     "Region": "Afghanistan",
     "Industry": "Life Science / Healthcare",
     "Website": "Test Fil",
@@ -43,7 +43,7 @@
     "Active Request ID": "0ec8cb33-bd88-4225-bd62-d66dbb7dfa69",
     "On Chain Address": "t1qmmbzfb3m6fijab4boagmkx72ouxhh7f2ylgzlq",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
