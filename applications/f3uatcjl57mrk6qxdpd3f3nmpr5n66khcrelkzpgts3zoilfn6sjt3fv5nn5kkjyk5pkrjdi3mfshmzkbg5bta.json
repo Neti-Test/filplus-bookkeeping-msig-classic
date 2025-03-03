@@ -2,7 +2,6 @@
   "Version": "1.3",
   "ID": "f3uatcjl57mrk6qxdpd3f3nmpr5n66khcrelkzpgts3zoilfn6sjt3fv5nn5kkjyk5pkrjdi3mfshmzkbg5bta",
   "Issue Number": "181",
-  "Client Contract Address": "t410f3rcr3t6omqusetedlme6md722xv3xspqs6k6ftq",
   "Client": {
     "Name": "",
     "Region": "",
@@ -36,25 +35,15 @@
     "Weekly Allocation": "64GiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-01-30 12:17:45.039234067 UTC",
-    "Validated By": "kacperzuk-neti",
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
     "Active": true,
-    "Updated At": "2025-01-30 12:17:45.039241607 UTC",
-    "Active Request ID": "aff15e6e-3bab-462c-998b-9c5127a252ee",
+    "Updated At": "2025-03-03 17:08:28.900463639 UTC",
+    "Active Request ID": "",
     "On Chain Address": "f3uatcjl57mrk6qxdpd3f3nmpr5n66khcrelkzpgts3zoilfn6sjt3fv5nn5kkjyk5pkrjdi3mfshmzkbg5bta",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": [
-    {
-      "ID": "aff15e6e-3bab-462c-998b-9c5127a252ee",
-      "Request Type": "First",
-      "Created At": "2025-01-30 12:17:45.039243477 UTC",
-      "Updated At": "2025-01-30 12:17:45.039244201 UTC",
-      "Active": true,
-      "Allocation Amount": "1GiB",
-      "Signers": []
-    }
-  ]
+  "Allocation Requests": []
 }
