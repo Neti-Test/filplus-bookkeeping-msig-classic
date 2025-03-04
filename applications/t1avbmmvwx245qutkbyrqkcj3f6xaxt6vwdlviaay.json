@@ -38,9 +38,9 @@
     "State": "Granted",
     "Validated At": "2025-02-07 14:49:37.953581485 UTC",
     "Validated By": "Filip-L",
-    "Active": true,
-    "Updated At": "2025-02-07 14:49:37.953566477 UTC",
-    "Active Request ID": "7c210c3b-18c8-4eef-bafa-9424db94b3a2",
+    "Active": false,
+    "Updated At": "2025-03-04 10:45:56.487058591 UTC",
+    "Active Request ID": "",
     "On Chain Address": "t1avbmmvwx245qutkbyrqkcj3f6xaxt6vwdlviaay",
     "Multisig Address": "false",
     "edited": false
