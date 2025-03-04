@@ -4,7 +4,7 @@
   "Issue Number": "191",
   "Client": {
     "Name": "Test fil 17",
-    "Region": "Afghanistan",
+    "Region": "Afghanistann",
     "Industry": "Life Science / Healthcare",
     "Website": "Test Fil",
     "Social Media": "Test Fil",
@@ -43,7 +43,7 @@
     "Active Request ID": "",
     "On Chain Address": "t1tewoetmzpbyyuargzgiutan54k62q4qw3rshcyy",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
