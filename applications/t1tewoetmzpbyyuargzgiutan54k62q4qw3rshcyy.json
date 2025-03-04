@@ -4,7 +4,7 @@
   "Issue Number": "191",
   "Client": {
     "Name": "Test fil 17",
-    "Region": "Afghanistan",
+    "Region": "Afghanistann",
     "Industry": "Life Science / Healthcare",
     "Website": "Test Fil",
     "Social Media": "Test Fil",
@@ -29,7 +29,7 @@
   "Datacap": {
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
-    "Total Requested Amount": "3360GiB",
+    "Total Requested Amount": "6360GiB",
     "Single Size Dataset": "330GiB",
     "Replicas": 2,
     "Weekly Allocation": "330GiB"
