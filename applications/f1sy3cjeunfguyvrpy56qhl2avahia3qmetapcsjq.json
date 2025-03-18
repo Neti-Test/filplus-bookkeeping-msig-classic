@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1sy3cjeunfguyvrpy56qhl2avahia3qmetapcsjq",
   "Issue Number": "253",
+  "Client Contract Address": "t410f3rcr3t6omqusetedlme6md722xv3xspqs6k6ftq",
   "Client": {
     "Name": "Pangeo Community",
     "Region": "United States",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "1 PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-03-18 14:42:40.904500456 UTC",
+    "Validated By": "Filip-L",
     "Active": true,
-    "Updated At": "2025-03-18 14:40:06.903313926 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-03-18 14:42:40.904515064 UTC",
+    "Active Request ID": "e049cfb7-3ed0-4a5d-bb04-ab605cfe882a",
     "On Chain Address": "f1sy3cjeunfguyvrpy56qhl2avahia3qmetapcsjq",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "e049cfb7-3ed0-4a5d-bb04-ab605cfe882a",
+      "Request Type": "First",
+      "Created At": "2025-03-18 14:42:40.904520023 UTC",
+      "Updated At": "2025-03-18 14:42:40.904521586 UTC",
+      "Active": true,
+      "Allocation Amount": "1 GiB",
+      "Signers": []
+    }
+  ]
 }
