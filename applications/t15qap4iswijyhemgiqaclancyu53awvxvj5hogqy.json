@@ -2,7 +2,6 @@
   "Version": "1.3",
   "ID": "t15qap4iswijyhemgiqaclancyu53awvxvj5hogqy",
   "Issue Number": "261",
-  "Client Contract Address": "t410f3rcr3t6omqusetedlme6md722xv3xspqs6k6ftq",
   "Client": {
     "Name": "Pangeo Community",
     "Region": "United States",
@@ -36,27 +35,17 @@
     "Weekly Allocation": "1 PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-03-21 10:07:07.443791266 UTC",
-    "Validated By": "Filip-L",
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
     "Active": true,
-    "Updated At": "2025-03-21 10:07:07.443788952 UTC",
-    "Active Request ID": "d8692353-ed50-4750-b40e-84e1f5de3e1b",
+    "Updated At": "2025-03-24 13:07:17.051798231 UTC",
+    "Active Request ID": "",
     "On Chain Address": "t15qap4iswijyhemgiqaclancyu53awvxvj5hogqy",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": [
-    {
-      "ID": "d8692353-ed50-4750-b40e-84e1f5de3e1b",
-      "Request Type": "First",
-      "Created At": "2025-03-19 12:21:10.416686978 UTC",
-      "Updated At": "2025-03-19 12:21:10.416688742 UTC",
-      "Active": true,
-      "Allocation Amount": "1 GiB",
-      "Signers": []
-    }
-  ],
+  "Allocation Requests": [],
   "Storage Providers Change Requests": [
     {
       "ID": "14d68034-4c0e-4400-a5dd-f0d00106518c",
