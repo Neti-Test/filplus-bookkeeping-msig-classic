@@ -5,7 +5,7 @@
   "Client": {
     "Name": "OpenStreetMap",
     "Region": "United States",
-    "Industry": "Information, Media & Telecommunications",
+    "Industry": "Information, Media & Telecommunications 23",
     "Website": "https://www.openstreetmap.org/#map=4/38.01/-95.84",
     "Social Media": "https://www.openstreetmap.org/#map=4/38.01/-95.84",
     "Social Media Type": "Slack",
@@ -43,7 +43,7 @@
     "Active Request ID": "c8064c60-20b0-4408-9d22-fc36ba97171b",
     "On Chain Address": "f1tgxrkf5oz5sc5fxo2mgzefnaj74i5fihe7degji",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
