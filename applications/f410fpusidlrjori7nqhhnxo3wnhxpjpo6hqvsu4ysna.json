@@ -1,0 +1,60 @@
+{
+  "Version": "1.3",
+  "ID": "t1jy6ek5uhpxh67tib65wwlmemtfvly5ftghum3hq",
+  "Issue Number": "79",
+  "Client Contract Address": "t410f3rcr3t6omqusetedlme6md722xv3xspqs6k6ftq",
+  "Client": {
+    "Name": "asd",
+    "Region": "Afghanistan",
+    "Industry": "Life Science / Healthcare",
+    "Website": "asd",
+    "Social Media": "asd",
+    "Social Media Type": "Slack",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "asd",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "asd",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "asd",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Daily",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Less than 1 year",
+    "In which geographies do you plan on making storage deals": "Greater China",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3)",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "asd",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "123TiB",
+    "Single Size Dataset": "123TiB",
+    "Replicas": 2,
+    "Weekly Allocation": "123TiB"
+  },
+  "Lifecycle": {
+    "State": "ReadyToSign",
+    "Validated At": "2025-01-08 09:19:42.185265768 UTC",
+    "Validated By": "Filip-L",
+    "Active": true,
+    "Updated At": "2025-01-08 09:19:42.185284484 UTC",
+    "Active Request ID": "25146fec-7e38-45b7-94a0-c0fcad12489c",
+    "On Chain Address": "t1jy6ek5uhpxh67tib65wwlmemtfvly5ftghum3hq",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "25146fec-7e38-45b7-94a0-c0fcad12489c",
+      "Request Type": "First",
+      "Created At": "2025-01-08 09:19:42.185291578 UTC",
+      "Updated At": "2025-01-08 09:19:42.185296747 UTC",
+      "Active": true,
+      "Allocation Amount": "1GiB",
+      "Signers": []
+    }
+  ]
+}
