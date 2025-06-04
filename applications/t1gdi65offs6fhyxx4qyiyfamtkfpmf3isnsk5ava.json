@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "t1gdi65offs6fhyxx4qyiyfamtkfpmf3isnsk5ava",
   "Issue Number": "295",
+  "Client Contract Address": "t410f3rcr3t6omqusetedlme6md722xv3xspqs6k6ftq",
   "Client": {
     "Name": "Test 61",
     "Region": "United States",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "1 GiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-06-04 07:00:40.551508890 UTC",
+    "Validated By": "Filip-L",
     "Active": true,
-    "Updated At": "2025-06-04 07:00:15.453039884 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-06-04 07:00:40.551526001 UTC",
+    "Active Request ID": "63520ed4-0092-4160-810a-296ef7f64afc",
     "On Chain Address": "t1gdi65offs6fhyxx4qyiyfamtkfpmf3isnsk5ava",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "63520ed4-0092-4160-810a-296ef7f64afc",
+      "Request Type": "First",
+      "Created At": "2025-06-04 07:00:40.551534452 UTC",
+      "Updated At": "2025-06-04 07:00:40.551538712 UTC",
+      "Active": true,
+      "Allocation Amount": "1073741824 B",
+      "Signers": []
+    }
+  ]
 }
