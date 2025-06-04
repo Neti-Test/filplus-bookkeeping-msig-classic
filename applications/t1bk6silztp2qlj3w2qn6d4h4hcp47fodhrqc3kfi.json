@@ -36,12 +36,12 @@
     "Weekly Allocation": "1 PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
-    "Validated At": "2025-03-19 11:32:40.139683737 UTC",
+    "State": "ChangingSP",
+    "Validated At": "2025-03-19 11:50:37.225678658 UTC",
     "Validated By": "Filip-L",
     "Active": true,
-    "Updated At": "2025-03-19 11:32:40.139669480 UTC",
-    "Active Request ID": "a43f3aae-9de8-46d6-8922-5cd5717b30a5",
+    "Updated At": "2025-03-19 11:50:37.225677465 UTC",
+    "Active Request ID": "191edfad-bffd-42a0-9432-981be2b495a2",
     "On Chain Address": "t1bk6silztp2qlj3w2qn6d4h4hcp47fodhrqc3kfi",
     "Multisig Address": "false",
     "edited": false
@@ -85,6 +85,30 @@
           "Created At": "2025-03-19 11:32:36.256000000 UTC",
           "Message CID": "bafy2bzaced6i4fh5ocsutu43u5353o276frzo2ydvm4qwgioh4ipxk4iidj5m",
           "Increase allowance CID": "bafy2bzacebkwifxr4wpgcytdwibqjqpjlk35i42rlo4tspryjvxxcq3dziu22"
+        }
+      ]
+    }
+  ],
+  "Storage Providers Change Requests": [
+    {
+      "ID": "191edfad-bffd-42a0-9432-981be2b495a2",
+      "Created At": "2025-03-19 11:50:37.225658700 UTC",
+      "Updated At": "2025-03-19 11:50:37.225668959 UTC",
+      "Active": true,
+      "Allowed Storage Providers": [
+        9876
+      ],
+      "Max Deviation": "10%",
+      "Signers": [
+        {
+          "Github Username": "Filip-L",
+          "Signing Address": "f1gyf5fzvohawd2vzobjht4ued5zunfjjxqfyhqui",
+          "Set Max Deviation CID": "bafy2bzacecquz5t4z5ztsmpvyxiy4cktzilzx7cqbfk3fmmoh7anao2h5maf2",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzacebbvbg2h2gybtv3tjj2dvpv24qsfe2yj3eczafjyspakqaj5movt6": [
+              "9876"
+            ]
+          }
         }
       ]
     }
