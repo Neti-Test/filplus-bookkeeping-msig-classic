@@ -3,7 +3,7 @@
   "ID": "t1w4khrvmi6grlntkfuiwcxfa5abtxhoygjleuooq",
   "Issue Number": "289",
   "Client": {
-    "Name": "Test 611",
+    "Name": "Test 61111",
     "Region": "United States",
     "Industry": "IT & Technology Services",
     "Website": "https://pangeo-data.github.io/pangeo-cmip6-cloud/",
@@ -36,11 +36,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2025-06-03 14:39:08.670684328 UTC",
+    "Validated At": "2025-06-09 10:06:32.630499654 UTC",
     "Validated By": "Filip-L",
     "Active": true,
-    "Updated At": "2025-06-03 14:39:08.670663027 UTC",
-    "Active Request ID": "b72b3a89-2151-420f-8c20-232e8a232448",
+    "Updated At": "2025-06-09 10:06:32.630482151 UTC",
+    "Active Request ID": "adee8be1-7398-46aa-9e68-629244559a11",
     "On Chain Address": "t1w4khrvmi6grlntkfuiwcxfa5abtxhoygjleuooq",
     "Multisig Address": "false",
     "edited": false
@@ -75,6 +75,28 @@
           "Signing Address": "f1gyf5fzvohawd2vzobjht4ued5zunfjjxqfyhqui",
           "Created At": "2025-06-03 14:38:58.873000000 UTC",
           "Message CID": "bafy2bzacecsafxcbnhu4hjxf4p254trt54rfsbzvd4ft3alcqwdmrxucnnupo"
+        }
+      ]
+    },
+    {
+      "ID": "adee8be1-7398-46aa-9e68-629244559a11",
+      "Request Type": "Refill",
+      "Created At": "2025-06-09 09:09:44.241680322 UTC",
+      "Updated At": "2025-06-09 09:09:44.241682266 UTC",
+      "Active": false,
+      "Allocation Amount": "2147483648B",
+      "Signers": [
+        {
+          "Github Username": "Filip-L",
+          "Signing Address": "f1gyf5fzvohawd2vzobjht4ued5zunfjjxqfyhqui",
+          "Created At": "2025-06-09 10:00:35.249000000 UTC",
+          "Message CID": "bafy2bzacebvfao6ki2bvgo3wxmzf3lnpbdysxmzgsso4u5zuc43xtc54elebu"
+        },
+        {
+          "Github Username": "Filip-L",
+          "Signing Address": "f1blulplfw336k54jngtlpgxm6zcsmdqe7l5txpfi",
+          "Created At": "2025-06-09 10:06:28.327000000 UTC",
+          "Message CID": "bafy2bzacedeoixon2kd6zbia5wbbsu3b4ttmxcpx2taefw4jqgz474splb4z2"
         }
       ]
     }
