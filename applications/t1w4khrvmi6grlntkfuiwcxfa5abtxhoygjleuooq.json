@@ -35,7 +35,7 @@
     "Weekly Allocation": "1 GiB"
   },
   "Lifecycle": {
-    "State": "ChangesRequested",
+    "State": "ReadyToSign",
     "Validated At": "2025-06-09 09:09:44.241659363 UTC",
     "Validated By": "Filip-L",
     "Active": true,
