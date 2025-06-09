@@ -35,7 +35,7 @@
     "Weekly Allocation": "1 GiB"
   },
   "Lifecycle": {
-    "State": "ChangesRequested",
+    "State": "StartSignDatacap",
     "Validated At": "2025-06-09 10:00:40.985537816 UTC",
     "Validated By": "Filip-L",
     "Active": true,
