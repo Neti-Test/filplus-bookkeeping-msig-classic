@@ -4,7 +4,7 @@
   "Issue Number": "297",
   "Client Contract Address": "t410f3rcr3t6omqusetedlme6md722xv3xspqs6k6ftq",
   "Client": {
-    "Name": "Test 61",
+    "Name": "Test 612",
     "Region": "United States",
     "Industry": "IT & Technology Services",
     "Website": "https://pangeo-data.github.io/pangeo-cmip6-cloud/",
@@ -44,7 +44,7 @@
     "Active Request ID": "5a103997-4834-43fc-a821-0cd22a095893",
     "On Chain Address": "t1rezz3kd3j4dabw35zv7arjbk2rbscl5hm52unoa",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
