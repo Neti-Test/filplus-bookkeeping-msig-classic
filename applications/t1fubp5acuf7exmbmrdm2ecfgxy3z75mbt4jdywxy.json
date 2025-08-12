@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "t1fubp5acuf7exmbmrdm2ecfgxy3z75mbt4jdywxy",
+  "Issue Number": "162",
+  "Client": {
+    "Name": "",
+    "Region": "",
+    "Industry": "",
+    "Website": "",
+    "Social Media": "",
+    "Social Media Type": "",
+    "Role": ""
+  },
+  "Project": {
+    "Brief history of your project and organization": "",
+    "Is this project associated with other projects/ecosystem stakeholders?": "",
+    "Describe the data being stored onto Filecoin": "",
+    "Where was the data currently stored in this dataset sourced from": "",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "",
+    "What is the expected retrieval frequency for this data": "",
+    "For how long do you plan to keep this dataset stored on Filecoin": "",
+    "In which geographies do you plan on making storage deals": "",
+    "How will you be distributing your data to storage providers": "",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": ""
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "124TiB",
+    "Single Size Dataset": "",
+    "Replicas": 0,
+    "Weekly Allocation": "123TiB"
+  },
+  "Lifecycle": {
+    "State": "ChangesRequested",
+    "Validated At": "2025-01-23 11:08:04.231155974 UTC",
+    "Validated By": "kacperzuk-neti",
+    "Active": true,
+    "Updated At": "2025-01-23 11:08:04.231152403 UTC",
+    "Active Request ID": "dc1c2ded-db74-4ef0-abdf-899503d8207f",
+    "On Chain Address": "t1fubp5acuf7exmbmrdm2ecfgxy3z75mbt4jdywxy",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "dc1c2ded-db74-4ef0-abdf-899503d8207f",
+      "Request Type": "First",
+      "Created At": "2025-01-23 11:06:59.606885932 UTC",
+      "Updated At": "2025-01-23 11:06:59.606886602 UTC",
+      "Active": true,
+      "Allocation Amount": "1GiB",
+      "Signers": [
+        {
+          "Github Username": "kacperzuk-neti",
+          "Signing Address": "f1yuiado2ocr3a7xesifnppn4mxjghpw7jr76vjfq",
+          "Created At": "2025-01-23 11:08:01.628000000 UTC",
+          "Message CID": "bafy2bzaceduqa2ild2u7d5epveyfpdgepvuwoeypycs2fevh4dln2r3wvpbqc"
+        }
+      ]
+    }
+  ]
+}
