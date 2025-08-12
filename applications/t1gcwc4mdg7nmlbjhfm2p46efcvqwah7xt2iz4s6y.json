@@ -4,8 +4,8 @@
   "Issue Number": "132",
   "Client Contract Address": "t410f3rcr3t6omqusetedlme6md722xv3xspqs6k6ftq",
   "Client": {
-    "Name": "Test fil 10",
-    "Region": "Afghanistan",
+    "Name": "Test fil 8",
+    "Region": "Afghanistannn",
     "Industry": "Life Science / Healthcare",
     "Website": "Test Fil",
     "Social Media": "Test Fil",
@@ -36,7 +36,7 @@
     "Weekly Allocation": "123TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2025-01-20 17:22:35.686665292 UTC",
     "Validated By": "Filip-L",
     "Active": true,
