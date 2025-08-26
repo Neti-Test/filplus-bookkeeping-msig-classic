@@ -36,11 +36,11 @@
     "Weekly Allocation": "1 GiB"
   },
   "Lifecycle": {
-    "State": "StartSignDatacap",
-    "Validated At": "2025-08-26 14:32:27.015344680 UTC",
+    "State": "Granted",
+    "Validated At": "2025-08-26 14:36:19.159572152 UTC",
     "Validated By": "Filip-L",
     "Active": true,
-    "Updated At": "2025-08-26 14:32:27.015324151 UTC",
+    "Updated At": "2025-08-26 14:36:19.159549830 UTC",
     "Active Request ID": "b69a9350-34bb-4c9e-b128-d74b1d5f060e",
     "On Chain Address": "t1goimapdkwgexdaid5rodrt7fphyimlevnlb7gyi",
     "Multisig Address": "false",
@@ -52,7 +52,7 @@
       "Request Type": "First",
       "Created At": "2025-08-26 13:54:42.305393838 UTC",
       "Updated At": "2025-08-26 13:54:42.305397044 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "2147483648 B",
       "Amount of Datacap Sent to Contract": "2147483648 B",
       "Signers": [
@@ -62,6 +62,13 @@
           "Created At": "2025-08-26 14:32:20.521000000 UTC",
           "Message CID": "bafy2bzacecfetdtdafjlfrtxi2qepzyb3blgptyxpucabhlzradlnlem5d5zy",
           "Increase allowance CID": "bafy2bzacebyotsqd2xxziluqkl5hataxbpymeoq5ou5gdeqoizetkz2su64lw"
+        },
+        {
+          "Github Username": "Filip-L",
+          "Signing Address": "f1blulplfw336k54jngtlpgxm6zcsmdqe7l5txpfi",
+          "Created At": "2025-08-26 14:36:13.936000000 UTC",
+          "Message CID": "bafy2bzacedf6hpcatepppfva4n6ydcbfox23c2k2imvpowut5fmxhseqmulcm",
+          "Increase allowance CID": "bafy2bzacecgdmewzybkjtudtd3kct2su3xzd5qjxezmvm5yuzdyukzexqerak"
         }
       ]
     }
