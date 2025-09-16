@@ -37,11 +37,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2025-09-16 08:15:35.220227986 UTC",
+    "Validated At": "2025-09-16 08:25:05.222544618 UTC",
     "Validated By": "LukaszMarciniakNeti",
     "Active": true,
-    "Updated At": "2025-09-16 08:15:35.220224432 UTC",
-    "Active Request ID": "a533b5e3-baa1-4ff7-a45f-131e894b7099",
+    "Updated At": "2025-09-16 08:25:05.222540357 UTC",
+    "Active Request ID": "892f5a7e-954e-42fc-b108-40756a1da16c",
     "On Chain Address": "f410frzzhvtx3ml3pj4vcuoguv4zbzcvzyzwlzikkeoq",
     "Multisig Address": "false",
     "edited": false
@@ -166,6 +166,41 @@
           "Remove Allowed Storage Providers CID": {
             "bafy2bzacecmke3qm4xpggcfonohdcdc5vo24w3tggh2q7ftkwe6wtxyt6qnyo": [
               "321"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "ID": "892f5a7e-954e-42fc-b108-40756a1da16c",
+      "Created At": "2025-09-16 08:19:07.032672182 UTC",
+      "Updated At": "2025-09-16 08:19:07.032676470 UTC",
+      "Active": false,
+      "Allowed Storage Providers": [
+        1111,
+        222
+      ],
+      "Max Deviation": "10%",
+      "Signers": [
+        {
+          "Github Username": "LukaszMarciniakNeti",
+          "Signing Address": "f1yvr3wo7kpnzbdtb4c5rq6aljnb74lodkojbjb6q",
+          "Set Max Deviation CID": "bafy2bzacedcn2epildnhmdlydc5bqmoaj2whayd5oaz2xa3wvyywqupezwyo2",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzaceb4r7gcplufmsw57a7zm2qi6vfupgqzkizmfrmyqt7ko3nr6hbmea": [
+              "1111",
+              "222"
+            ]
+          }
+        },
+        {
+          "Github Username": "LukaszMarciniakNeti",
+          "Signing Address": "f1wvqglgv6hdtnhrekt2rd7uj6hthz4clzra47lji",
+          "Set Max Deviation CID": "bafy2bzaceciygo37hycebcbl4lemst77nkvway5fty6yodgxe7wccijvicbri",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzacedlhf5qcrx25ncxbcg36sdljl2dhebvhpjtrwa4f26nyyg4az6tlm": [
+              "1111",
+              "222"
             ]
           }
         }
