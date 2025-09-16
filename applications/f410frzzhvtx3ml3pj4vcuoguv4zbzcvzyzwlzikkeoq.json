@@ -36,12 +36,12 @@
     "Weekly Allocation": "1 GiB"
   },
   "Lifecycle": {
-    "State": "Granted",
-    "Validated At": "2025-09-16 07:45:43.424160639 UTC",
+    "State": "ChangingSP",
+    "Validated At": "2025-09-16 07:53:12.680794642 UTC",
     "Validated By": "LukaszMarciniakNeti",
     "Active": true,
-    "Updated At": "2025-09-16 07:45:43.424156942 UTC",
-    "Active Request ID": "ac23a588-087d-4148-96b8-4f0a4b2b3268",
+    "Updated At": "2025-09-16 07:53:12.680790710 UTC",
+    "Active Request ID": "23dc05a0-ea96-4e24-8a91-11cb63e05f44",
     "On Chain Address": "f410frzzhvtx3ml3pj4vcuoguv4zbzcvzyzwlzikkeoq",
     "Multisig Address": "false",
     "edited": false
@@ -69,6 +69,32 @@
           "Created At": "2025-09-16 07:45:40.709000000 UTC",
           "Message CID": "bafy2bzacedgnkvjck4w5dbzkzgnf36nky5qbplzsaeptqd7l47bplehxpo2fg",
           "Increase allowance CID": "bafy2bzacectnhsxa5reddfrtzya4h7lwpxajawi2itms65b5rpkbtllzy2kz6"
+        }
+      ]
+    }
+  ],
+  "Storage Providers Change Requests": [
+    {
+      "ID": "23dc05a0-ea96-4e24-8a91-11cb63e05f44",
+      "Created At": "2025-09-16 07:53:12.680781348 UTC",
+      "Updated At": "2025-09-16 07:53:12.680786034 UTC",
+      "Active": true,
+      "Allowed Storage Providers": [
+        123,
+        321
+      ],
+      "Max Deviation": "10%",
+      "Signers": [
+        {
+          "Github Username": "LukaszMarciniakNeti",
+          "Signing Address": "f1yvr3wo7kpnzbdtb4c5rq6aljnb74lodkojbjb6q",
+          "Set Max Deviation CID": "bafy2bzacea5sc3zz4v2gqlimzvvfzectmb7x6bpca6zvxwbfo2ztr5jsbraw2",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzaceas3gmr36nd6hye6qe5isro5ofawwbcd33xspcqrdg5sv5uxki4l4": [
+              "123",
+              "321"
+            ]
+          }
         }
       ]
     }
