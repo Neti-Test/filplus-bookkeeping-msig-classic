@@ -36,11 +36,11 @@
     "Weekly Allocation": "1 GiB"
   },
   "Lifecycle": {
-    "State": "ChangingSP",
-    "Validated At": "2025-09-17 10:22:13.465639259 UTC",
+    "State": "Granted",
+    "Validated At": "2025-09-17 10:27:11.958178521 UTC",
     "Validated By": "LukaszMarciniakNeti",
     "Active": true,
-    "Updated At": "2025-09-17 10:22:13.465638456 UTC",
+    "Updated At": "2025-09-17 10:27:11.958174957 UTC",
     "Active Request ID": "c4293812-bf7f-40cd-8150-bedac923ae65",
     "On Chain Address": "f410fsq3dwyw52qxuswfev23bzva2jlzhoi44fq7gkii",
     "Multisig Address": "false",
@@ -244,7 +244,7 @@
       "ID": "c4293812-bf7f-40cd-8150-bedac923ae65",
       "Created At": "2025-09-17 10:22:13.465628531 UTC",
       "Updated At": "2025-09-17 10:22:13.465633037 UTC",
-      "Active": true,
+      "Active": false,
       "Allowed Storage Providers": [
         111
       ],
@@ -256,6 +256,16 @@
           "Set Max Deviation CID": "bafy2bzacecg2szbusbsrhld3drskghnxfs4zdlylryg67hnlrvfhfltwq7jjo",
           "Add Allowed Storage Providers CID": {
             "bafy2bzacec5p2o4m3a422ogabmkzia4hbnm226om3cxrsyxaeejtyrirwdoxq": [
+              "111"
+            ]
+          }
+        },
+        {
+          "Github Username": "LukaszMarciniakNeti",
+          "Signing Address": "f1wvqglgv6hdtnhrekt2rd7uj6hthz4clzra47lji",
+          "Set Max Deviation CID": "bafy2bzacebpke5vcszl7b3gcnoud5uy7k33o3an6efpvaj5kxd3bwhfif7ynm",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzaceawwzgc52rpe6mne3bzwgmwec3bxl6zlzwo44a2o7jniaajqyt5yy": [
               "111"
             ]
           }
