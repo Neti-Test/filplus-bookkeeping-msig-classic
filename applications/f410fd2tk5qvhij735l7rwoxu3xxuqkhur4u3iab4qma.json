@@ -37,11 +37,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2025-09-17 11:32:07.444013809 UTC",
+    "Validated At": "2025-09-17 11:35:42.779911272 UTC",
     "Validated By": "LukaszMarciniakNeti",
     "Active": true,
-    "Updated At": "2025-09-17 11:32:07.444009998 UTC",
-    "Active Request ID": "9aecab8d-9dfc-4f1c-b65b-cf58ab1e2320",
+    "Updated At": "2025-09-17 11:35:42.779910441 UTC",
+    "Active Request ID": "74c39546-33eb-40bc-86c4-50072c71277b",
     "On Chain Address": "f410fd2tk5qvhij735l7rwoxu3xxuqkhur4u3iab4qma",
     "Multisig Address": "false",
     "edited": false
@@ -62,6 +62,34 @@
           "Created At": "2025-09-17 11:32:04.163000000 UTC",
           "Message CID": "bafy2bzacebhumixwlujwci2hvunrqdthqy7emyvqufg4adq4gj6g3t4i27urw",
           "Increase allowance CID": "bafy2bzaceaiprmwd5xa7xy5x4l5qk3b2gxfpy3ptixhey3vcw4ecv4zkqfhua"
+        }
+      ]
+    }
+  ],
+  "Storage Providers Change Requests": [
+    {
+      "ID": "2239c728-f145-4f83-abb1-0dec0ccb4838",
+      "Created At": "2025-09-17 11:35:42.779895754 UTC",
+      "Updated At": "2025-09-17 11:35:42.779900628 UTC",
+      "Active": false,
+      "Allowed Storage Providers": [
+        1,
+        2,
+        3
+      ],
+      "Max Deviation": "10%",
+      "Signers": [
+        {
+          "Github Username": "LukaszMarciniakNeti",
+          "Signing Address": "f1yvr3wo7kpnzbdtb4c5rq6aljnb74lodkojbjb6q",
+          "Set Max Deviation CID": "bafy2bzacecj6nrfy65kma4zxe2x57j6zojo6dklxrko73e7xfklxrj4nsotcw",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzaced7mhlmq456s2tz33ncqnarbldcqgz5oxezo46pzipybpgicnvno4": [
+              "1",
+              "2",
+              "3"
+            ]
+          }
         }
       ]
     }
